@@ -1,4 +1,4 @@
-veri = "send-100-3-0-1\nreceive-100-3-0\n"
+veri = "send-100-1-1-1\nreceive-100-1-0\n"
 dizi = veri.split("\n")
 ekran= 0
 def fonksiyon(kod, bol):
